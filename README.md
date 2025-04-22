@@ -34,7 +34,9 @@ Santos et al 2017: Security Penetration Testing - The Art of Hacking Series Live
 Kennedy et al 2025: Metasploit: File-Format Exploits 
 
 
-
+- File-format-haavoittuvuudet ovat hyväksikäytettäviä virheitä tiedostojen lukijoissa kuten Abode Readerissa. Hyökkäys tapahtuu kun uhri avaa tiedoston.
+- Tärkeää on tiedonhankinta kohteesta ja tarkka kohdentaminen, jotta hyökkäys onnistuu.
+- Loppukappaleessa puhuttiin hyvin, 
 
 
 
