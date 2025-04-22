@@ -58,6 +58,28 @@ ja  sudo apt-get -y install hashid hashcat wget
 <img width="483" alt="image" src="https://github.com/user-attachments/assets/8ab08619-4f1a-4c70-ad2d-a16f216feae1" />
 
 
+Vaihdoin luotuani ensin itseni hashed directoryyn. Wgetilla latasin ison kirjaston eri sanoja. 
+
+
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/23250eef-c11d-4ec7-b936-2b4772f7160b" />
+
+
+Tämän jälkeen purin sen tar - komennolla. 
+
+
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/4e32e2c8-1eea-48e3-861f-50fa9172930b" />
+
+headerinkin näin, jotta sisälle pääsin katsomaan erilaisia sanoja. Pääsin myös katsomaan erilaisia esimerkki hasheja. 
+
+
+<img width="411" alt="image" src="https://github.com/user-attachments/assets/0794c56b-7cec-4854-bafc-f60ca5b9e11c" />
+
+
+
+
+
+
+
 
 
 ## Yhteenveto 
