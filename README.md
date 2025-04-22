@@ -11,6 +11,7 @@ Karvinen 2022: Cracking Passwords with Hashcat
 
 
 
+
 Karvinen 2023: Crack File Password With John
 
 - Puhutaan John the Ripper ohjelmasta, joka on tarkoitettu tiedostosalasanojen purkamiseen tarkemmin sanottuja ZIP.
@@ -19,13 +20,20 @@ Karvinen 2023: Crack File Password With John
 
 
 
+
+
 Santos et al 2017: Security Penetration Testing - The Art of Hacking Series LiveLessons: Lesson 6: Hacking User Credentials 
 
 
 
+- Puhuttiin salasanojen säilyttämisestä, niiden heikkouksista ja salasanoihin kohdistuvista hyökkäyksistä.
+- Painotettiin 2MFA käyttöä.
+- Alussa myös näytettiin millä brute-force työkaluilla voi päästä "purkamaan" salasanakantoja (medusa, wfuzz etc.) Näytettiin myös hashcatin toimintaa. 
 
 
 Kennedy et al 2025: Metasploit: File-Format Exploits 
+
+
 
 
 
