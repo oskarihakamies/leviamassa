@@ -69,13 +69,19 @@ Tämän jälkeen purin sen tar - komennolla.
 
 <img width="220" alt="image" src="https://github.com/user-attachments/assets/4e32e2c8-1eea-48e3-861f-50fa9172930b" />
 
+
+
 headerinkin näin, jotta sisälle pääsin katsomaan erilaisia sanoja. Pääsin myös katsomaan erilaisia esimerkki hasheja. 
 
 
 <img width="411" alt="image" src="https://github.com/user-attachments/assets/0794c56b-7cec-4854-bafc-f60ca5b9e11c" />
 
 
+
+
 Sitten lähdin testaamaan juuri sitä esimerkkisalasanaa. 
+
+
 
 
 <img width="484" alt="image" src="https://github.com/user-attachments/assets/93988247-224a-405a-8a01-42fe27d40cc4" />
@@ -83,9 +89,43 @@ Sitten lähdin testaamaan juuri sitä esimerkkisalasanaa.
 
 
 
+
+
 <img width="387" alt="image" src="https://github.com/user-attachments/assets/ae839011-0b1d-40a7-9444-e2fdf86938dc" />
 
+
+
 Ja näin se ratkesi. 
+
+
+
+
+b)
+
+Latasin ja käänsin John the Ripperin aluksi kaliin. 
+
+
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/d5195338-9ec7-4592-a784-6b7d161a9328" />
+
+
+
+
+
+John saatiin compilattua. 
+
+
+<img width="480" alt="image" src="https://github.com/user-attachments/assets/8f8738a8-7fcc-491b-bbaa-fbddedcb942f" />
+
+
+run/ löysi myös näitä scriptejä. 
+
+
+<img width="295" alt="image" src="https://github.com/user-attachments/assets/2aa4c8a3-716d-4f6d-b45d-8fd0d2ad8eb0" />
+
+
+
+
+
 
 
 
