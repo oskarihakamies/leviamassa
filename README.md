@@ -75,8 +75,17 @@ headerinkin näin, jotta sisälle pääsin katsomaan erilaisia sanoja. Pääsin 
 <img width="411" alt="image" src="https://github.com/user-attachments/assets/0794c56b-7cec-4854-bafc-f60ca5b9e11c" />
 
 
+Sitten lähdin testaamaan juuri sitä esimerkkisalasanaa. 
 
 
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/93988247-224a-405a-8a01-42fe27d40cc4" />
+
+
+
+
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/ae839011-0b1d-40a7-9444-e2fdf86938dc" />
+
+Ja näin se ratkesi. 
 
 
 
