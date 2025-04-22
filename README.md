@@ -125,6 +125,23 @@ run/ löysi myös näitä scriptejä.
 
 
 
+<img width="364" alt="image" src="https://github.com/user-attachments/assets/6747df27-9b42-43b7-9ac3-e729de1249bf" />
+
+
+
+john tulosti näin 
+
+
+<img width="479" alt="image" src="https://github.com/user-attachments/assets/6f6200b5-4677-41dd-9c98-96424db2a2f1" />
+
+
+Testasin eri salasanoja ja en päässyt. 
+
+
+<img width="352" alt="image" src="https://github.com/user-attachments/assets/dd19953b-ce8a-4f9a-872b-5d50902928b7" />
+
+
+
 
 
 
@@ -139,20 +156,30 @@ run/ löysi myös näitä scriptejä.
 # References 
 
 
+
 Karvinen 2022: Cracking Passwords with Hashcat, https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
+
 
 
 
 Karvinen 2023: Crack File Password With John, https://terokarvinen.com/2023/crack-file-password-with-john/
 
 
+
+
 Santos et al 2017: Security Penetration Testing - The Art of Hacking Series LiveLessons: Lesson 6: Hacking User Credentials, https://www.oreilly.com/videos/security-penetration-testing/9780134833989/9780134833989-sptt_00_06_00_00/
 
 
+
+
  Kennedy et al 2025: Metasploit: File-Format Exploits, https://www.oreilly.com/library/view/metasploit-2nd-edition/9798341620032/xhtml/chapter9.xhtml#:-:text=File-Format%20Exploits
+
+
 
 
  Singh 2025: The Ultimate Kali Linux Book: Understanding Active Directory, https://www.oreilly.com/library/view/the-ultimate-kali/9781835085806/Text/Chapter_12.xhtml#_idParaDest-272
 
 
 
+
+GeeksForGeeks 2024: How to use John the Ripper in Kali Linux, https://www.geeksforgeeks.org/how-to-use-john-the-ripper-in-kali-linux/
